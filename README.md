@@ -73,7 +73,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Håkan Lindahl - [/hakanlindahl](https://www.linkedin.com/in/h%C3%A5kan-lindahl-3a0427153/) - hakan.l.lindahl@gmail.com
 <br />
-Project Link: [https://github.com/HawkieOne/spotify-clone](https://github.com/HawkieOne/spotify-clone)
+Project Link: [https://github.com/HawkieOne/radioinfo](https://github.com/HawkieOne/radioinfo)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
